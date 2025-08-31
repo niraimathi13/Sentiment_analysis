@@ -94,3 +94,28 @@ Displays accuracy, precision, recall, F1-score, and AUC-ROC for classification m
 - Automated Customer Support: Prioritize customer complaints based on sentiment classification.
 - Marketing Strategy Optimization: Develop better engagement strategies based on sentiment insights.
 
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d09fa046-f5a1-4b1a-9541-521482005834" />
+
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/c2064ea8-f59d-423e-84c8-95fcc8eab4a8" />
+
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/fc4dafa3-3736-4770-b013-12ef6988f369" />
+
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/79b05190-f102-4d65-9a5a-c57494dd85cd" />
+
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/31706a75-e872-4bfb-a053-a0ae109924de" />
+
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/23097547-b895-4c8b-886a-79db309c663f" />
+
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/bb52102c-ed3e-4d43-81e1-d736056a98e4" />
+
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/05b2d39e-c2ca-43fb-9db9-dbb3686581ea" />
+
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/4df2e61c-5505-457a-93e1-3e7d6e996557" />
+
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/1a976fce-caa2-4957-a82e-74f8ac54e8fc" />
+
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/1fbf14e2-621d-44d9-8eb3-b22dd4ca1050" />
+
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c1e670d9-3adf-4fe9-8718-09dc348ec140" />
